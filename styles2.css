@@ -1,0 +1,33 @@
+.All-images{
+    align-items: center;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.All-images, h2{
+    font-weight: bolder;
+}
+
+.All-images p{
+    font-weight: bold;
+    font-size:15px;
+
+}
+.all-my-images{
+    border: 2px solid grey;
+    padding: 5px 20px;
+}
+.final-picture{
+    margin-top: 20px;
+}
+.view{
+    color: red;
+    border-bottom: 2px solid red;
+}
+
+.logo-pp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 70px;
+  }
